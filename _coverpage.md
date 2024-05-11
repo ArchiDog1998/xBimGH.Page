@@ -3,6 +3,3 @@
 # **xBimGH** <small>1.0.0.0</small>
 
 > xBIM definition in Grasshopper.
-
-[Start](#xBIM GH)
-
